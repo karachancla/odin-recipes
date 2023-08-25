@@ -1,0 +1,35 @@
+
+body {
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.title {
+    background-color: white;
+    border: 5px solid orange;
+    text-align: center;
+    padding: 10px 20px;
+    margin: 20px;
+    width: 300px;
+    font-style: italic;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+.links {
+    background-color: white;
+    border: 5px solid orange;
+    padding: 20px 70px;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+.bttn {
+    display: block;
+    border: 2px solid #D9863B;
+    background-color: #F8B243;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}
